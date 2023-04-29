@@ -19,3 +19,11 @@ Insight
 •	We are using Metamask Browser Extension to work with Ethereum
 
 •	We use the Google Map API to display maps and calculate distances between locations. This is used to determine the optimal route for carpooling and calculate the fare for the ride.
+
+How to use:
+
+Register:
+
+There are two ways to register:
+•	As a Driver
+•	As a Customer
