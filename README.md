@@ -6,7 +6,7 @@ Our app Cabs on Go is built to solve the problem of middlemen in cab service app
  
 The app uses the Ethereum blockchain to manage transactions between users. This is done using smart contracts written in Solidity, which would be deployed on the blockchain. 
 
-The smart contracts would manage the transfer of funds between users and ensure that the carpooling transactions are executed correctly.
+The smart contracts would manage the transfer of funds between users and ensure that the cab booking transactions are executed correctly.
 
 Insight
 
