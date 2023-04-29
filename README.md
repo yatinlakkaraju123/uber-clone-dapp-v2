@@ -11,7 +11,11 @@ The smart contracts would manage the transfer of funds between users and ensure 
 Insight
 
 •	It is a D-app on Ethereum.
+
 •	Smart contract is there in Backend.
+
 •	Front-end is made with React.Js
+
 •	We are using Metamask Browser Extension to work with Ethereum
+
 •	We use the Google Map API to display maps and calculate distances between locations. This is used to determine the optimal route for carpooling and calculate the fare for the ride.
