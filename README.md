@@ -18,12 +18,18 @@ Insight
 
 •	We are using Metamask Browser Extension to work with Ethereum
 
-•	We use the Google Map API to display maps and calculate distances between locations. This is used to determine the optimal route for carpooling and calculate the fare for the ride.
+•	In the app we can register as a Driver or Customer.
 
-How to use:
+•	The flow for a Driver is:
 
-Register:
+ 1) They can see the ride a customer has requested from pickup point to drop point.
+ 2) After the Driver accepts the ride he reaches the pick up point.
+ 3) At the end of the ride the driver receives the payment from the customer.
 
-There are two ways to register:
-•	As a Driver
-•	As a Customer
+•	The flow for the Customer is:
+ 1)	The customer enters the From and To location on the app.
+ 2)	After entering this information if a driver accepts the ride the customer is shown the details about the same.
+ 3)	Once the ride finishes the customer pays the driver directly.
+
+
+
