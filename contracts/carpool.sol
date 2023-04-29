@@ -89,6 +89,9 @@ contract carpool{
     function get_ride_array() public view returns (Ride[] memory){
         return ride_array;
     }
+    function get_accept_ride_array() public view returns (Accept_Ride[] memory){
+        return accept_ride_array;
+    }
     function accept_ride(uint  ride_no,string calldata dri_name,uint _price) public  {
         /* bool existing_driver = false;
         for(uint i=0;i<driver_array.length;i++)
