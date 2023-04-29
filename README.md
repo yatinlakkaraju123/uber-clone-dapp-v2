@@ -4,7 +4,8 @@ About
 
 The web application Cabs on Go is built to solve the problem of middlemen in cab service apps by using blockchain technology by creating a decentralized application which allows the customer to directly book a cab without having the need of a middleman which results in increased profitability for the driver as well as the customer.
  
-The app uses the Ethereum blockchain to manage transactions between users. This is done using smart contracts written in Solidity, which would be deployed on the blockchain. 
+The app uses the Ethereum blockchain to manage transactions between users. Th!
+is is done using smart contracts written in Solidity, which would be deployed on the blockchain. 
 
 The smart contracts would manage the transfer of funds between users and ensure that the cab booking transactions are executed correctly.
 
@@ -35,5 +36,5 @@ Insight
 
 Pictures:
 
-
+[Screenshot 2023-04-29 180606](https://user-images.githubusercontent.com/96581782/235303091-042a86ef-e0dc-4409-8420-f94531c1d6e2.png)
 
