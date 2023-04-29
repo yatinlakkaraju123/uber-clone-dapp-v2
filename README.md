@@ -33,5 +33,7 @@ Insight
  2)	After entering this information if a driver accepts the ride the customer is shown the details about the same.
  3)	Once the ride finishes the customer pays the driver directly.
 
+Pictures:
+
 
 
